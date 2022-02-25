@@ -1,0 +1,16 @@
+State Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	http://youtube.com/watch?v=8O-Us2BphU4
+	http://youtube.com/watch?v=MGEx35FjBuo
+	http://youtube.com/watch?v=-fmHRat0_-I
+	http://www.dreamincode.net/forums/topic/185616-design-patterns-state/
+	https://sourcemaking.com/design_patterns/state
+	https://www.journaldev.com/1751/state-design-pattern-java
+	

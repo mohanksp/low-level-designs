@@ -1,0 +1,14 @@
+Composite Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	Book : Java Design Patterns by Vaskaran Sarcar
+	http://www.tutorialspoint.com/design_pattern/composite_pattern.htm
+	http://en.wikipedia.org/wiki/Composite_pattern
+	https://www.youtube.com/watch?v=mp5lwolO-wM
+	https://www.youtube.com/watch?v=Q1jZ4TI6MF4

@@ -1,0 +1,9 @@
+Strategy Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:

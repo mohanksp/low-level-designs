@@ -1,0 +1,12 @@
+Proxy Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	Notes 
+	Book : Java Design Patterns by Vaskaran Sarcar
+	https://www.codeproject.com/Tips/468254/Proxy-Design-Pattern-in-Java

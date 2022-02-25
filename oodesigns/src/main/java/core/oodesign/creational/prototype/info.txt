@@ -1,0 +1,9 @@
+Prototype Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:

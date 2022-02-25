@@ -1,0 +1,15 @@
+Template Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	https://www.youtube.com/watch?v=83O-yY0JhFU
+	https://www.youtube.com/watch?v=jMasyZFs-MU
+	https://www.youtube.com/watch?v=mNHTwjlWrv8
+	http://youtube.com/watch?v=zeRSYj-bVqo
+	https://www.journaldev.com/1763/template-method-design-pattern-in-java
+	https://www.youtube.com/watch?v=209srnMmADU

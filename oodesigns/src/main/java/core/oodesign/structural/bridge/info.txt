@@ -1,0 +1,14 @@
+Bridge Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	https://www.youtube.com/watch?v=bxOY0uBvz38
+	https://www.youtube.com/watch?v=Y3xP2YSJ2JQ
+	https://www.youtube.com/watch?v=9jIgSsIfh_8
+	http://www.avajava.com/tutorials/lessons/bridge-pattern.html?page=2
+	https://www.journaldev.com/1491/bridge-design-pattern-java

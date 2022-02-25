@@ -1,0 +1,16 @@
+Flyweight Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	https://www.youtube.com/watch?v=zEYH0IbeDOs
+	https://www.youtube.com/watch?v=wWtNULo_ioQ
+	https://www.youtube.com/watch?v=1hteANdY5Ac
+	https://www.youtube.com/watch?v=8M9ohCSEMIw
+	http://www.dotnettricks.com/learn/designpatterns/flyweight-design-pattern-dotnet
+	http://www.oodesign.com/flyweight-pattern.html
+	https://www.journaldev.com/1562/flyweight-design-pattern-java

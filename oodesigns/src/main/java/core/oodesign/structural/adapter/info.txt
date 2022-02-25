@@ -1,0 +1,14 @@
+Adaptor Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+https://www.youtube.com/watch?v=Y7DYhe6efQY
+https://www.youtube.com/watch?v=g0rsa5m3W2w
+https://www.youtube.com/watch?v=NiGImjVfAms
+www.c-sharpcorner.com/UploadFile/40e97e/adapter-pattern-in-C-Sharp/
+http://stackoverflow.com/questions/5467005/adapter-pattern-classadapter-vs-object-adapter

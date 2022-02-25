@@ -1,0 +1,14 @@
+Chain of Responsibility Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	http://youtube.com/watch?v=t43bl_AEA-0
+	http://youtube.com/watch?v=CP0AD50bO98
+	http://youtube.com/watch?v=tac4IOOU8Rc
+	Book example
+	https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern

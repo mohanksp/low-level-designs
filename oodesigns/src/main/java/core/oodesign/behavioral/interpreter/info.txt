@@ -1,0 +1,9 @@
+Interpreter Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:

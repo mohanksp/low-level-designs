@@ -1,0 +1,13 @@
+Facade Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	https://www.youtube.com/watch?v=dLjJo2v2re8
+	https://www.youtube.com/watch?v=B1Y8fcYrz5o
+	http://www.dotnettricks.com/learn/designpatterns/facade-design-pattern-dotnet
+	https://www.journaldev.com/1557/facade-design-pattern-in-java

@@ -1,0 +1,14 @@
+Decorator Pattern
+
+Definition:
+
+
+Example:
+
+
+Links:
+	https://www.youtube.com/watch?v=mk58Hjf4mkE
+	https://www.youtube.com/watch?v=DX6zmUyIhZg
+	https://www.youtube.com/watch?v=j40kRwSm4VE
+	https://www.youtube.com/watch?v=NtXGDTgrTMI
+	https://www.journaldev.com/1540/decorator-design-pattern-in-java-example
